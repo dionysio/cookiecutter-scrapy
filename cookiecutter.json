@@ -1,6 +1,5 @@
 {
-  "project_name": "Offical Project Name™",
-  "description": "A short description of the project",
-  "repo_name": "repo_name",
-  "database": "database_name"
+  "project_name": "Project name",
+  "ClassName": "Name to use for classes",
+  "domain": "Domain to scrape"
 }

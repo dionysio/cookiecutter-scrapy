@@ -1,0 +1,4 @@
+dateparser
+html2text
+Scrapy
+usaddress
